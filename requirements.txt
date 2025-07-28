@@ -1,0 +1,8 @@
+Flask==2.3.3
+tensorflow==2.15.0
+keras==2.15.0
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+yfinance==0.2.38
+scikit-learn==1.4.2
