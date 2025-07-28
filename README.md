@@ -60,4 +60,14 @@ Yahoo Finance.
 
    ```bash
    Visit http://127.0.0.1:5000 to use the prediction interface.
-  
+
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by [Sohan Samanta](https://github.com/Sohan-hub11)
+
+---
+
+⭐ If you found this helpful, give it a **star** and consider contributing!
+
