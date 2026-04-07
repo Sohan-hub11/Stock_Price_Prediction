@@ -29,13 +29,13 @@ Yahoo Finance.
 
 ## 🏗️ Project Structure
 
-- static/ # Static files (CSS/images)
-- templates/ # HTML templates
-- stock__model.keras # Trained LSTM model
-- app.py # Flask application script
-- requirements.txt # Required Python packages
-- Stock_predict.ipynb # Jupyter Notebook (training + visualization)
-- README.md # Project overview
+      static/              # Static files (CSS/images)
+      templates/           # HTML templates
+      stock__model.keras   # Trained LSTM model
+      app.py               # Flask application script
+      requirements.txt     # Required Python packages
+      Stock_predict.ipynb  # Jupyter Notebook (training + visualization)
+      README.md            # Project overview
 
 ---
 
